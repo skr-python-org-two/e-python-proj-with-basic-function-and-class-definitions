@@ -6,7 +6,7 @@ Python project with basic functions and basic class definitions
 
 
 
-###### 1 only functions ,
+###### &emsp;&emsp; 1 only functions ,
 ###### 2 only functions with main , 
 ###### 3 class with instance variables and methods , 
 ###### 4 class with static methods , 
