@@ -55,5 +55,16 @@ class MetadataUtil:
                     )
                        """)
 
+    @staticmethod
+    def get_task_executed_status(new_batch_id:int , previous_batch_id:int):
+        if previous_batch_id > new_batch_id:
+            return False
+        elif new_batch_id == previous_batch_id:
+            return True
+        else:
+            raise ValueError(" new_batch_id is invlaid")
+
+
+
 
 
