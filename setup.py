@@ -70,7 +70,7 @@ setuptools.setup(
     ],
     package_data = {
         'me.personal.core': ['*.csv' , '*.json'],
-        'me.personal.basic-function-examples': ['*.csv' , '*.json'],
+        'me.personal.basic-function-class-examples': ['*.csv' , '*.json'],
     }
 )
 
