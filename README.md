@@ -13,4 +13,5 @@ Python project with basic functions and basic class definitions
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 7 class with custom constructor , 
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 8 class with custom call method ,
 ###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 9 __new___ , __init__ , call in classes
+###### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 10 singleton objects
 
